@@ -1,5 +1,5 @@
-# MSc Artificial Intelligence – E-Portfolio  
-*Hashim Korimbocus*  
+# All artefacts demonstrating development over the duration of the module
+ 
 
 ---
 
