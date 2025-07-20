@@ -11,7 +11,7 @@
 
 
 
-##  Individual Contributions to Projects  
+##  Individual Contributions to Project
 **Units Involved:** Unit 6 (Group Project)  
 
 
