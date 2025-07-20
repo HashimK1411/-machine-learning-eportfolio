@@ -16,7 +16,7 @@ I explored how rapid technological advancement, while transformative, introduces
 - **The Shift to Industry 5.0**
 
 ### Critical Reflection  
-This activity bridged theory and practice. I learned that AI-driven digital transformation must be paired with ethical and legal safeguards. Machine-learning professionals need to design systems with integrity, security and user trust at their core, supported by proactive risk assessment.
+This activity helped me bridge theory with practice. It became clear that AI and digital transformation cannot be pursued without equal attention to ethical and legal safeguards. For machine learning professionals, this means not only understanding how to develop systems, but how to design them with integrity, security, and user trust at the core. The discussion also made me aware of how proactive risk assessment is vital in both cybersecurity and broader AI governance.
 
 ---
 
@@ -27,7 +27,7 @@ This activity bridged theory and practice. I learned that AI-driven digital tran
 Building on Unit 1, I engaged with peers on the transition from **Industry 4.0 to 5.0**. Discussions centred on how Industry 5.0 embeds *ethical, resilient, human-centric* values into technological adoption.
 
 ### Critical Reflection  
-The change is more than technological—it is a **mind-set shift**, embedding fairness, adaptability, and resilience into digital architectures. These principles now inform my technical problem-solving and stakeholder responsibilities.
+The shift from Industry 4.0 to 5.0 isn’t just about new technologies—it’s a mindset change. It’s about embedding values like fairness, adaptability, and resilience into the very architecture of our digital systems. These reflections will inform how I approach both technical problem-solving and stakeholder responsibilities in future projects
 
 ---
 
@@ -53,7 +53,7 @@ The change is more than technological—it is a **mind-set shift**, embedding fa
 *Example prediction:* 2300 kg & 1300 cm³ → **≈ 107.21 g CO₂**. Raising weight to 3300 kg → **≈ 114.76 g CO₂**.
 
 ### Reflection  
-Hands-on coding revealed how noise, overfitting, and model sensitivity influence correlation and regression. These insights prepare me for robust AI modelling in diverse scenarios.
+This unit bridged theory and code. Working with synthetic and real data revealed how correlation and regression vary across scenarios. Modifying datasets deepened my grasp of noise, overfitting, and model sensitivity which is key for future AI modelling.
 
 ---
 
@@ -72,7 +72,7 @@ A live animation demonstrated centroid shifts and cluster formation, clarifying 
 | Jim & Mary     | **0.75** |
 
 ### Reflection  
-Visual and mathematical artefacts showed how to segment unlabeled data and compare binary features—skills vital for profiling, anomaly detection, and recommender systems.
+Clustering and similarity analysis are core to machine learning where patterns emerge without labels. Using visual and mathematical artefacts, I learned to segment data and compare binary features—skills vital for profiling, anomaly detection, and recommendations.
 
 ---
 
@@ -81,7 +81,7 @@ Visual and mathematical artefacts showed how to segment unlabeled data and compa
 
 ### Group Collaboration Overview  
 - Weekly meetings (Units 1 → 6)  
-- **Business Question:** What factors most influence Airbnb pricing? (e.g., location, beds, reviews)
+- **Business Question:** Is there an optimal pricing point for maximising Airbnb occupancy rates and revenue, and how is this affected by neighbourhood and local amenities?
 
 ### Unit 5 Artefact – **EDA & Initial Model**  
 - Data cleaning and exploratory analysis  
@@ -91,9 +91,10 @@ Visual and mathematical artefacts showed how to segment unlabeled data and compa
 ### Unit 6 Artefact – **Final Report**  
 - Model refinements and alternative configurations  
 - Comprehensive paper: business context, pipeline, results, reflections.
+- **Report Contents:** The submission outlined our complete pipeline—business context, data preparation, modelling approach, results analysis, and final reflections on the collaborative process.
 
 ### Reflection  
-The project strengthened my technical and interpersonal skills—highlighting communication, mutual support, and adaptability when handling messy real-world data.
+Working as part of a development team allowed me to apply machine learning theory in a practical, team-oriented setting. It also highlighted the importance of communication, mutual support, and adaptability when handling real-world datasets. This experience strengthened both my technical and interpersonal skills particularly in managing shared responsibilities and learning from peer feedback.
 
 ---
 
@@ -109,15 +110,14 @@ Implemented weight-update loop until perfect classification.
 Showed how hidden layers and back-propagation extend learning capacity.
 
 ### Reflection  
-Guided activities reinforced core ANN concepts—inputs, weights, activation, and the transition from single-layer to layered models.
+Though I didn’t write or modify code, the guided activities reinforced key neural network concepts—input weighting, activation functions, supervised learning, and the shift from simple to layered models. This built a solid foundation for understanding and evaluating complex ANNs.
 
 ---
 
 ## Units 8–10: Forum Reflection – AI-Assisted Writing  
 
 ### Summary of Activity  
-Explored AI tools (ChatGPT, GPT-3) and their **benefits vs. risks**.  
-Key literature: Hutson (2021); Harati (2024); Carobene et al. (2023).
+Units 8–10 explored AI-assisted writing tools like ChatGPT and GPT-3. My post highlighted their potential and pitfalls. Citing Hutson (2021), I noted how fluent yet misleading outputs raise concerns about factual accuracy. Harati (2024) and Carobene et al. (2023) further warned of risks like plagiarism, misinformation, and weakened academic integrity without strong human oversight.
 
 ### Key Concepts & Insights  
 - **AI Fluency vs. Factual Accuracy**  
@@ -126,7 +126,7 @@ Key literature: Hutson (2021); Harati (2024); Carobene et al. (2023).
 - **Data Privacy & Model Memory**
 
 ### Critical Reflection  
-AI writing tools must be paired with human judgment and accountability. Ongoing ethical education is essential to build systems that **empower, not mislead**.
+This discussion pushed me to consider the academic, legal, and ethical dimensions of AI writing tools. While they can aid learning and streamline content creation, they must be used with human judgment and accountability. I now see the importance of ongoing education on ethical AI use—essential for building systems that empower, not mislead.
 
 ---
 
@@ -144,7 +144,7 @@ AI writing tools must be paired with human judgment and accountability. Ongoing 
 - **Reproducibility:** fixed random seeds, TensorFlow/Keras utilities.
 
 ### Critical Reflection  
-Directly informed my final assignment—deepened skills in CNN implementation, dataset handling, and performance evaluation.
+This activity directly contributed to my final assignment, reinforcing practical knowledge of CNN implementation, dataset handling, and model evaluation. This experience enhanced my problem-solving, coding fluency, and critical evaluation of model performance—core skills required for machine learning professionals.
 
 ---
 
@@ -158,6 +158,6 @@ Directly informed my final assignment—deepened skills in CNN implementation, d
 - **Regression Metrics:** RMSE, MAE, R².
 
 ### Critical Reflection  
-Experiments showed how kernel choice and noise affect generalisation. Careful parameter selection and clean data are vital for reliable models.
+This activity showed how model tuning and data quality affect performance. Changing the kernel type altered pattern recognition and generalisation, while adding noise revealed sensitivity to irrelevant features. These experiments highlighted the need for careful parameter selection and clean data.
 
 ---
