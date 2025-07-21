@@ -72,6 +72,18 @@ Gao, R., Yu, D., Gao, B., Hua, H., Hui, Z., Gao, J. and Yin, C. (2025) ‘Legal 
 
 ---
 
+###  Individual project on Object recognition
+
+Gupta, J., Pathak, S. and Kumar, G., 2022, May. Deep learning (CNN) and transfer learning: a review. In Journal of Physics: Conference Series (Vol. 2273, No. 1, p. 012029). IOP Publishing. • CIFAR-10 Dataset by Krizhevsky et al.
+
+Dong, K., Zhou, C., Ruan, Y. and Li, Y., 2020, December. MobileNetV2 model for image classification. In 2020 2nd International Conference on Information Technology and Computer Application (ITCA) (pp. 476-480). IEEE. 
+
+Watanobe, Y., Rahman, M.M., Amin, M.F.I. and Kabir, R., 2023. Identifying algorithm in program code based on structural features using CNN classification model. Applied Intelligence, 53(10), pp.12210-12236.
+
+Ogundokun, R.O., Maskeliunas, R., Misra, S. and Damaševičius, R., 2022, July. Improved CNN based on batch normalization and adam optimizer. In International Conference on Computational Science and Its Applications (pp. 593-604). Cham: Springer International Publishing
+
+---
+
 ### 📈 Unit 11
 
 Fawcett, T. (2006) ‘An introduction to ROC analysis’, *Pattern Recognition Letters*, 27(8), pp. 861–874.
