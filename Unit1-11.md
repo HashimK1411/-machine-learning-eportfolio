@@ -15,8 +15,10 @@ I explored how rapid technological advancement, while transformative, introduces
 - **Skills Gaps in Industry 4.0**  
 - **The Shift to Industry 5.0**
 
-### Critical Reflection  
+### Reflection  
 This activity helped me bridge theory with practice. It became clear that AI and digital transformation cannot be pursued without equal attention to ethical and legal safeguards. For machine learning professionals, this means not only understanding how to develop systems, but how to design them with integrity, security, and user trust at the core. The discussion also made me aware of how proactive risk assessment is vital in both cybersecurity and broader AI governance.
+
+See [References.md](./References.md) for a complete list of sources used throughout this project.
 
 ---
 
@@ -26,8 +28,10 @@ This activity helped me bridge theory with practice. It became clear that AI and
 ### Summary of Activity  
 Building on Unit 1, I engaged with peers on the transition from **Industry 4.0 to 5.0**. Discussions centred on how Industry 5.0 embeds *ethical, resilient, human-centric* values into technological adoption.
 
-### Critical Reflection  
+### Reflection  
 The shift from Industry 4.0 to 5.0 isn’t just about new technologies—it’s a mindset change. It’s about embedding values like fairness, adaptability, and resilience into the very architecture of our digital systems. These reflections will inform how I approach both technical problem-solving and stakeholder responsibilities in future projects
+
+See [References.md](./References.md) for a complete list of sources used throughout this project.
 
 ---
 
@@ -55,6 +59,8 @@ The shift from Industry 4.0 to 5.0 isn’t just about new technologies—it’s 
 ### Reflection  
 This unit bridged theory and code. Working with synthetic and real data revealed how correlation and regression vary across scenarios. Modifying datasets deepened my grasp of noise, overfitting, and model sensitivity which is key for future AI modelling.
 
+See [References.md](./References.md) for a complete list of sources used throughout this project.
+
 ---
 
 ## Unit 4: Clustering & Similarity  
@@ -73,6 +79,8 @@ A live animation demonstrated centroid shifts and cluster formation, clarifying 
 
 ### Reflection  
 Clustering and similarity analysis are core to machine learning where patterns emerge without labels. Using visual and mathematical artefacts, I learned to segment data and compare binary features—skills vital for profiling, anomaly detection, and recommendations.
+
+See [References.md](./References.md) for a complete list of sources used throughout this project.
 
 ---
 
@@ -96,6 +104,8 @@ Clustering and similarity analysis are core to machine learning where patterns e
 ### Reflection  
 Working as part of a development team allowed me to apply machine learning theory in a practical, team-oriented setting. It also highlighted the importance of communication, mutual support, and adaptability when handling real-world datasets. This experience strengthened both my technical and interpersonal skills particularly in managing shared responsibilities and learning from peer feedback.
 
+See [References.md](./References.md) for a complete list of sources used throughout this project.
+
 ---
 
 ## Unit 7: Introduction to Artificial Neural Networks  
@@ -112,6 +122,8 @@ Showed how hidden layers and back-propagation extend learning capacity.
 ### Reflection  
 Though I didn’t write or modify code, the guided activities reinforced key neural network concepts—input weighting, activation functions, supervised learning, and the shift from simple to layered models. This built a solid foundation for understanding and evaluating complex ANNs.
 
+See [References.md](./References.md) for a complete list of sources used throughout this project.
+
 ---
 
 ## Units 8–10: Forum Reflection – AI-Assisted Writing  
@@ -125,8 +137,10 @@ Units 8–10 explored AI-assisted writing tools like ChatGPT and GPT-3. My post 
 - **Human Agency & Ethical Design**  
 - **Data Privacy & Model Memory**
 
-### Critical Reflection  
+###  Reflection  
 This discussion pushed me to consider the academic, legal, and ethical dimensions of AI writing tools. While they can aid learning and streamline content creation, they must be used with human judgment and accountability. I now see the importance of ongoing education on ethical AI use—essential for building systems that empower, not mislead.
+
+See [References.md](./References.md) for a complete list of sources used throughout this project.
 
 ---
 
@@ -143,8 +157,10 @@ This discussion pushed me to consider the academic, legal, and ethical dimension
 - **Data Partitioning:** train/val/test 60 / 20 / 20 %.  
 - **Reproducibility:** fixed random seeds, TensorFlow/Keras utilities.
 
-### Critical Reflection  
+### Reflection  
 This activity directly contributed to my final assignment, reinforcing practical knowledge of CNN implementation, dataset handling, and model evaluation. This experience enhanced my problem-solving, coding fluency, and critical evaluation of model performance—core skills required for machine learning professionals.
+
+See [References.md](./References.md) for a complete list of sources used throughout this project.
 
 ---
 
@@ -157,7 +173,9 @@ This activity directly contributed to my final assignment, reinforcing practical
 - **ROC & AUC:** one test case AUC = **0.79**.  
 - **Regression Metrics:** RMSE, MAE, R².
 
-### Critical Reflection  
+### Reflection  
 This activity showed how model tuning and data quality affect performance. Changing the kernel type altered pattern recognition and generalisation, while adding noise revealed sensitivity to irrelevant features. These experiments highlighted the need for careful parameter selection and clean data.
+
+See [References.md](./References.md) for a complete list of sources used throughout this project.
 
 ---
