@@ -1,11 +1,11 @@
-## 🧪 Individual Project: CNNs and Transfer Learning with CIFAR-10
+## Individual Project: CNNs and Transfer Learning with CIFAR-10
 
-### 🎯 Project Overview
+### Project Overview
 This project explored the use of **Convolutional Neural Networks (CNNs)** and **Transfer Learning (MobileNetV2)** for image classification using the CIFAR-10 dataset. I worked individually to build, train, evaluate, and compare both approaches to understand their strengths and trade-offs in a real-world context.
 
 ---
 
-### 🔨 My Contributions
+### My Contributions
 
 - **Selected Track 2 (Deep Learning)**: Focused on CNNs and transfer learning for object recognition tasks.
 - **Preprocessed Data**:
@@ -32,7 +32,7 @@ This project explored the use of **Convolutional Neural Networks (CNNs)** and **
 
 ---
 
-### 📈 Key Learnings
+### Key Learnings
 
 - Gained hands-on experience with CNN architecture design and implementation.
 - Understood the practical advantages of transfer learning for image recognition.
@@ -42,7 +42,7 @@ This project explored the use of **Convolutional Neural Networks (CNNs)** and **
 
 ---
 
-### 🧩 Tools & Libraries
+### Tools & Libraries
 
 - **Python**, **TensorFlow/Keras**, **NumPy**, **Matplotlib**
 - CIFAR-10 dataset via `keras.datasets`
@@ -50,6 +50,6 @@ This project explored the use of **Convolutional Neural Networks (CNNs)** and **
 
 ---
 
-### 📚 References
+### References
 
 See [References.md](./References.md) for a complete list of sources used throughout this project.
