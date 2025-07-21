@@ -52,4 +52,4 @@ This project explored the use of **Convolutional Neural Networks (CNNs)** and **
 
 ### 📚 References
 
-See [references.md](./references.md) for a complete list of sources used throughout this project.
+See [References.md](./References.md) for a complete list of sources used throughout this project.
